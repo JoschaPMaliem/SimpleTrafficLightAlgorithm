@@ -1,0 +1,10 @@
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\bin\Debug\TrafficLightAlgorithm2.exe.config
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\bin\Debug\TrafficLightAlgorithm2.exe
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\bin\Debug\TrafficLightAlgorithm2.pdb
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\obj\Debug\TrafficLightAlgorithm2.csprojAssemblyReference.cache
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\obj\Debug\TrafficLightAlgorithm2.Form1.resources
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\obj\Debug\TrafficLightAlgorithm2.Properties.Resources.resources
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\obj\Debug\TrafficLightAlgorithm2.csproj.GenerateResource.cache
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\obj\Debug\TrafficLightAlgorithm2.csproj.CoreCompileInputs.cache
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\obj\Debug\TrafficLightAlgorithm2.exe
+C:\Users\Maliem\source\repos\TrafficLightAlgorithm2\TrafficLightAlgorithm2\obj\Debug\TrafficLightAlgorithm2.pdb
